@@ -60,7 +60,7 @@ To analyze, document, and redesign the student grading and report generation pro
 The redesigned process aims to achieve:
 
 - Reduce report release time from ~5 days to ≤ 2 days
-- Reduce data entry error rate from ~70% to ≤ 10%
+- Reduce data entry error rate from ~20% to ≤ 10%
 - Eliminate duplicate student sheets
 - Remove version conflicts through centralized control
 - Enable automated student ranking
