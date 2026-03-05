@@ -39,7 +39,7 @@ The current grading process has several operational issues:
 • No real-time analytics  
 • Manual ranking process  
 • Late report generation (≈5 days after exams)  
-• High teacher data entry error rate (~70%)  
+• High teacher data entry error rate (~20%)  
 • Low IT literacy among some staff  
 • Manual report printing taking multiple nights  
 
