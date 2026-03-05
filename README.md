@@ -29,7 +29,7 @@ The current Excel-based grading and report generation process at Aim High School
 - File duplication and multiple sheets for the same student
 - Version conflicts across different users
 - Manual calculation errors
-- High data entry error rate (~70% reported)
+- High data entry error rate (~20% reported)
 - Slow consolidation of results across classes
 - Lack of audit trail and change tracking
 - Risk of data loss
