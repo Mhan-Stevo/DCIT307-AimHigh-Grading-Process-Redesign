@@ -107,20 +107,32 @@ This approach balances cost, feasibility, usability, and scalability.
 
 
 /docs
-/docs/01_Organisation_Profile
-/docs/02_Stakeholder_Analysis
-/docs/03_AS_IS_Process
-/docs/04_Metrics_Analysis
-/docs/05_Pain_Point_Register
-/docs/06_Solution_Options
-/docs/07_TO_BE_Process
-/docs/08_Requirements
-/docs/09_Business_Case
-/docs/10_Implementation_Roadmap
-/presentation
-/research
-/templates
 
+/docs/01_Organisation_Profile
+
+/docs/02_Stakeholder_Analysis
+
+/docs/03_AS_IS_Process
+
+/docs/04_Metrics_Analysis
+
+/docs/05_Pain_Point_Register
+
+/docs/06_Solution_Options
+
+/docs/07_TO_BE_Process
+
+/docs/08_Requirements
+
+/docs/09_Business_Case
+
+/docs/10_Implementation_Roadmap
+
+/presentation
+
+/research
+
+/templates
 
 Each folder corresponds directly to graded deliverables under the DCIT307 Mini Project structure.
 
