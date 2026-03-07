@@ -1,4 +1,4 @@
-# 4. Detailed Process Steps
+# Detailed Process Steps
 
 ### Step 1: Recording Student Scores
 Teachers enter scores for tests, assignments, and examinations into Excel spreadsheets.
@@ -99,10 +99,10 @@ The entire grading process currently takes approximately five days after examina
 
 | Activity                     | Estimated Time   |
 |------------------------------|------------------|
-| Score entry by teachers      | 1 day            |
+| Score entry by teachers      | 3 days            |
 | File collection              | 1 day            |
 | Consolidation                | 1–2 days         |
-| Report preparation           | 1 day            |
+| Report preparation           | 2-3 days            |
 | Printing                     | Several hours    |
 
 ---
