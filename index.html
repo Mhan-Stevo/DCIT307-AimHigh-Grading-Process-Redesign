@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My table</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background: hsl(0, 5%, 96%);
+        }
+        table {
+            width: 50%;
+            margin: auto;
+            border-collapse: collapse;
+        }
+        caption {
+            font-size: 1.5em;
+            color: #e85353;
+            margin-bottom: 10px;
+        }
+        th, td {
+            border: 3px solid #fc0202;
+            padding: 8px;
+            text-align: center;
+        }
+        thead {
+            background-color: #e98181;
+            color: white;
+        }
+        tbody {
+            background-color: #f7f1f1;
+        }
+        tfoot {
+            background-color: #bdb9b9;
+            color: white;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+<table>
+    <caption>Premier League Table</caption>
+    <!-- <thead> -->
+    <tr>
+        <th rowspan="7">Hello</th>
+        <th>Position</th>
+        <th>Club</th>
+        <th>GD</th>
+        <th>Points</th>
+    </tr>
+    <!-- </thead> -->
+    <!-- <tbody> -->
+    <tr>
+        <td>1</td>
+        <td>Arsenal</td>
+        <td>+12</td>
+        <td>67</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Manchester City</td>
+        <td>+15</td>
+        <td>66</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Manchester United</td>
+        <td>+10</td>
+        <td>60</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Aston Villa</td>
+        <td>+8</td>
+        <td>58</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>Chelsea</td>
+        <td>+5</td>
+        <td>55</td>
+    </tr>
+    <!-- </tbody>
+    <tfoot> -->
+        <tr>
+            <td colspan="3">Total Teams</td>
+            <td>5</td>
+        </tr>
+    <!-- </tfoot> -->
+</table>
+</body>
+</html>
