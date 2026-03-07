@@ -1,10 +1,8 @@
-```markdown
+
 # System Requirements
 ## Grading System
 
----
-
-# Functional Requirements
+## Functional Requirements
 
 | ID | Requirement |
 |---|---|
@@ -16,7 +14,7 @@
 
 ---
 
-# Non-Functional Requirements
+## Non-Functional Requirements
 
 | ID | Requirement |
 |---|---|
@@ -24,4 +22,3 @@
 | NFR2 | System must be easy to use |
 | NFR3 | System must handle large datasets |
 | NFR4 | System must maintain audit logs |
-```

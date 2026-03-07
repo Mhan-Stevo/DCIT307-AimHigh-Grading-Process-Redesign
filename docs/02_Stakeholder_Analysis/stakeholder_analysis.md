@@ -125,5 +125,3 @@ The stakeholder analysis highlights the various individuals and groups involved 
 Understanding these relationships helps ensure that the proposed solution addresses operational challenges while meeting the needs of all participants involved in the grading process.
 
 This analysis will support the development of the improved **TO-BE grading process model** in the next phase of the project.
-
----

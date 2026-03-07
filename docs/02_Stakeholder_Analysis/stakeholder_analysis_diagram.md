@@ -1,3 +1,5 @@
+# Stakeholder_Analysis diagram
+
 ```mermaid
 quadrantChart
     title Power-Interest Matrix - Grading Process Stakeholders
@@ -5,10 +7,10 @@ quadrantChart
     x-axis Low Interest --> High Interest
     y-axis Low Power --> High Power
 
-    quadrant-1 High Power / High Interest (Key Players)
-    quadrant-2 High Power / Low Interest (Keep Satisfied)
-    quadrant-3 Low Power / Low Interest (Monitor)
-    quadrant-4 Low Power / High Interest (Keep Informed)
+    quadrant-1 "Key Players"
+    quadrant-2 "Keep Satisfied"
+    quadrant-3 "Monitor"
+    quadrant-4 "Keep Informed"
 
     Teachers: [0.9, 0.9]
     Headmaster: [0.8, 0.85]

@@ -1,7 +1,7 @@
 # Root Cause Analysis
 ## Grading System Problems
 
-The Fishbone Diagram identifies possible root causes of inefficiencies in the grading process.
+This Fishbone Diagram identifies possible root causes of inefficiencies in the grading process.
 
 ```mermaid
 flowchart LR
